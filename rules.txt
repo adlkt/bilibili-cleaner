@@ -30,3 +30,8 @@ account.bilibili.com##.nav-search-box>*
 ! 2024年12月5日 https://message.bilibili.com
 message.bilibili.com###nav-searchform
 message.bilibili.com##.left-entry>*
+
+!  https://www.bilibili.com
+www.bilibili.com##bili-comments
+www.bilibili.com##.bpx-player-sending-bar
+www.bilibili.com##.inside-wrp
