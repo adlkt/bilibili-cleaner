@@ -1,9 +1,9 @@
-! 2024年12月2日 https://t.bilibili.com
+! https://t.bilibili.com
 t.bilibili.com##.bili-dyn-sidebar
 t.bilibili.com##.topic-panel
 t.bilibili.com##.left-entry
 
-! 2024年12月2日 https://www.bilibili.com
+!  https://www.bilibili.com
 www.bilibili.com##.is-version8.container
 www.bilibili.com##.roll-btn.primary-btn
 www.bilibili.com##.palette-button-wrap
@@ -13,25 +13,24 @@ www.bilibili.com##.part-1.pop-live-small-mode
 www.bilibili.com##.recommended-container_floor-aside
 www.bilibili.com##.bili-header__channel
 www.bilibili.com##.left-entry>*
+www.bilibili.com##.bpx-player-ending
+www.bilibili.com##bili-comments
+www.bilibili.com##.bpx-player-sending-bar
+www.bilibili.com##.inside-wrp
 
-! 2024年12月2日 https://search.bilibili.com
+!  https://search.bilibili.com
 search.bilibili.com##.left-entry>*
 search.bilibili.com##.trending
 
-! 2024年12月2日 https://space.bilibili.com
+!  https://space.bilibili.com
 space.bilibili.com##.game.section
 space.bilibili.com##.left-entry>*
 space.bilibili.com##.center-search-container
 
-! 2024年12月2日 https://account.bilibili.com
+!  https://account.bilibili.com
 account.bilibili.com##.nav-link>*
 account.bilibili.com##.nav-search-box>*
 
-! 2024年12月5日 https://message.bilibili.com
+!  https://message.bilibili.com
 message.bilibili.com###nav-searchform
 message.bilibili.com##.left-entry>*
-
-!  https://www.bilibili.com
-www.bilibili.com##bili-comments
-www.bilibili.com##.bpx-player-sending-bar
-www.bilibili.com##.inside-wrp
