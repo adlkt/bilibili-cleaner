@@ -33,10 +33,6 @@ account.bilibili.com##.nav-search-box>*
 message.bilibili.com###nav-searchform
 message.bilibili.com##.left-entry>*
 
-
-! 2025年1月2日 https://v.youku.com
-v.youku.com##.root-boh > div
-
 ! 2025年1月3日 https://t.bilibili.com
 t.bilibili.com###nav-searchform
 
